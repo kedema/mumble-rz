@@ -1,39 +1,35 @@
-# omega-for-mumble
+# Mumble-RZ
 
-[![Gitter](https://badges.gitter.im/donzooles/omega-for-mumble.svg)](https://gitter.im/donzooles/omega-for-mumble?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+**mumble-rz** est un thème (Skin) moderne pour l'excellent logiciel de communications open-source [Mumble](https://www.mumble.info/). 
+Comme le logiciel principal, ce skin est libre de droit tant que vous en conservez la license, faites en ce que vous voulez et personnnalisez-le!
+Ce skin est basé sur "omega-for-mumble" par DonZooles, largement modifier par mes soins pour "coller" au design global Rudeboyz.fr.
 
-**omega-for-mumble** is a simple & beautified skin / theme designed for the open-source and high quality voice-chat software **[mumble](http://wiki.mumble.info/wiki/Main_Page)**. The project is open – anyone can help to improve it.
 
-by <b>DONZOOLES™</b> <br>
+## Aperçu
 
-## screenshot(s)
-![2015-0515](https://github.com/donzooles/omega-for-mumble/blob/gh-pages/images/2015-0515.png?raw=true)
+![Mumble RZ Edition interface : Servers, settings, users list and text explorer](https://medias.rznet.ovh/files/skin-mumble-rz/screenshot_interface_mumble.jpg)
 
-## installation
-× **unofficial** <a href="https://github.com/donzooles/omega-for-mumble/wiki/installation#english">install-guide</a> — english / omega<br />
-× **unofficial** <a href="https://github.com/donzooles/omega-for-mumble/wiki/installation#deutsch">install-guide</a> — german / omega<br />
-× **official** [install-guide](http://wiki.mumble.info/wiki/Skins#Installing_a_Skin) — english / mumble
 
-## configuration
+## Guide d'installation
 
-See [configuration](https://github.com/donzooles/omega-for-mumble/wiki/Configuration) for more information.
+× **non-officiel** [Guide d'installation]https://www.rudeboyz.fr/install-mumble-skin-theme-1-3-0.html) — Français - Rudeboyz.fr
+× **officiel** [Guide d'installation](https://wiki.mumble.info/wiki/Themes#Installing_a_new_theme) — Anglais - Wiki mumble
 
-## contributing
 
-1. Fork the project.
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request.
+## Activation du thème
 
-## dev-releases
+Ouvrez la fênetre principale de mumble ([exemple](https://medias.rznet.ovh/files/skin-mumble-rz/main_window.png)), cliquez sur "Configurer" puis "Réglages...".
+Dans l'onglet "Interface Utilisateur" Séléctionnez le Thème "Mumble RZ Edition - Dark"
+C'est fini! Profitez de mumble avec ce nouveau design!
 
-See https://github.com/donzooles/omega-for-mumble/tree/dev for dev-releases.
 
-## history
+## Historique / Changelog
 
-See [releases](https://github.com/donzooles/omega-for-mumble/releases) for detailed changelog.
+Il s'agit de la première version en tant que Mumble-RZ. 
 
-## license
+Voir [releases](https://github.com/kedema/mumble-rz/releases) pour l'historique complet des anciennes versions omega-for-mumble par DonZooles.
 
-[MIT license](https://github.com/donzooles/omega-for-mumble/blob/master/LICENSE.md) © DonZooles
+
+## License
+
+[MIT License](https://github.com/kedema/mumble-rz/blob/master/LICENSE.md) ©kedema  ©DonZooles
