@@ -13,7 +13,7 @@ Ce skin est basé sur "omega-for-mumble" par DonZooles, largement modifier par m
 
 ## Guide d'installation
 
-× **non-officiel** [Guide d'installation]https://www.rudeboyz.fr/install-mumble-skin-theme-1-3-0.html) — Français - Rudeboyz.fr
+× **non-officiel** [Guide d'installation](https://www.rudeboyz.fr/install-mumble-skin-theme-1-3-0.html) — Français - Rudeboyz.fr
 
 × **officiel** [Guide d'installation](https://wiki.mumble.info/wiki/Themes#Installing_a_new_theme) — Anglais - Wiki mumble
 
